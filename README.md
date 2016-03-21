@@ -51,7 +51,8 @@ __强调2遍，左右各2个下划线__
 ``` javascript
  var price = 200;
  var count = 3;
- console.log( price * count );
+ var totalPrice = price * count;
+ console.log( totalPrice );
 ``` 
  
  
