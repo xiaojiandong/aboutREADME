@@ -23,10 +23,8 @@
 <dzf904229511@163.com> <br />
 <http://www.csdn.net/>
 
-# a仅显示图片 ，b点击图片跳转到对应页面
-  [![image]](http://www.github.com/)
-  [image]: http://github.com/github.png "github"
-
+# 显示图片
+![image](http://f.hiphotos.baidu.com/baike/w%3D268/sign=725f5defa2ec08fa260014a161ef3d4d/6159252dd42a2834b1c7cf5b59b5c9ea15cebf79.jpg)
 
 # 显示无序列表
 * 用*+-等字符加空格表示
