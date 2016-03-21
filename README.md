@@ -49,6 +49,7 @@ __强调2遍，左右各2个下划线__
 
 # 表示高亮，用3个点点点```，加上编程语言名字，结尾处再用3个点点点
 ``` javascript
+ // javascript编辑
  var price = 200;
  var count = 3;
  var totalPrice = price * count;
